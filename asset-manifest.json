@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TeslaClone/static/css/main.f0b1ae93.chunk.css",
+    "main.js": "/TeslaClone/static/js/main.79e97133.chunk.js",
+    "main.js.map": "/TeslaClone/static/js/main.79e97133.chunk.js.map",
+    "runtime-main.js": "/TeslaClone/static/js/runtime-main.08ce0f02.js",
+    "runtime-main.js.map": "/TeslaClone/static/js/runtime-main.08ce0f02.js.map",
+    "static/js/2.8de23f9d.chunk.js": "/TeslaClone/static/js/2.8de23f9d.chunk.js",
+    "static/js/2.8de23f9d.chunk.js.map": "/TeslaClone/static/js/2.8de23f9d.chunk.js.map",
+    "index.html": "/TeslaClone/index.html",
+    "static/css/main.f0b1ae93.chunk.css.map": "/TeslaClone/static/css/main.f0b1ae93.chunk.css.map",
+    "static/js/2.8de23f9d.chunk.js.LICENSE.txt": "/TeslaClone/static/js/2.8de23f9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ce0f02.js",
+    "static/js/2.8de23f9d.chunk.js",
+    "static/css/main.f0b1ae93.chunk.css",
+    "static/js/main.79e97133.chunk.js"
+  ]
+}
